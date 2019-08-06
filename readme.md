@@ -1,8 +1,8 @@
-##Inject arrow-button navigation for KaiOS into your existing react app
+## Inject arrow-button navigation for KaiOS into your existing react app
 This project fits a need I had trying to port an existing web app to a KaiOS app- without a mouse or touch screen, I had to introduce a way to navigate around the app like you would with the tab button in a browser. I figured, if I had to build this, someone else might be able to use it as well!
 Please feel free to contribute issues or suggestions for improvements. 
 
-###How to use
+### How To Use
 Check out the example directory!
 
 - ```npm i --s react-kaiOS-navigation```
