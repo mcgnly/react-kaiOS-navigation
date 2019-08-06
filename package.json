@@ -1,0 +1,25 @@
+{
+  "name": "react-kaios-navigation",
+  "version": "1.0.0",
+  "description": "inject arrow-key navigation into your react app for use on KaiOS",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcgnly/react-kaiOS-navigation.git"
+  },
+  "keywords": [
+    "kaiOS"
+  ],
+  "author": "mcgnly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcgnly/react-kaiOS-navigation/issues"
+  },
+  "homepage": "https://github.com/mcgnly/react-kaiOS-navigation#readme"
+}
