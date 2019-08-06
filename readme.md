@@ -5,7 +5,7 @@ Please feel free to contribute issues or suggestions for improvements.
 ### How To Use
 Check out the example directory!
 
-- ```npm i --s react-kaiOS-navigation```
+- ```npm i --s react-kaios-navigation```
 - start by importing the navigation injection utility in your index.js of your react app
 - call the utility after the render method
 - that's it!

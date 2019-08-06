@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import injectKaiOSNavigation from 'react-kaiOS-navigation';
+import injectKaiOSNavigation from 'react-kaios-navigation';
 
 ReactDOM.render(
         <App />,
